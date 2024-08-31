@@ -20,7 +20,7 @@ class HistoryPage extends StatelessWidget {
       //   ),
       // ),
       body: const Center(
-        child: Text("History Page"),
+        child: Text("cubluk Page"),
       ),
     );
   }
